@@ -1,0 +1,33 @@
+.title {
+    text-align: center;
+    padding: 80px 0;
+    background-color: #000;
+    color: red;
+}
+
+.conclu #con-title,
+.Why #paragraph {
+    width: 70%;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#con,
+#heading {
+    text-align: center;
+    padding: 6px;
+}
+
+.img #ly {
+    text-align: center;
+}
+
+.img #anh2,
+.img #anh {
+    width: 50%;
+    margin: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
